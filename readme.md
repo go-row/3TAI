@@ -1,8 +1,9 @@
-# A simple Tic Tac Toe Game
+# 3TAI - A simple Tic Tac Toe Game
 
-A simple tic tac toe game which consists of a bot created using the Minimax algorithm. Play with it for a while and if possible try to beat it).
+A simple tic tac toe game which consists of a bot created using the Minimax algorithm. 
+Play with it for a while and if possible try to beat it.
 
-## Things used for the game :
+## The game was built using the following :
 
  - HTML, JS, CSS.
  - Minimax Algorithm.
