@@ -23,6 +23,6 @@ A simple tic tac toe game which consists of a bot created using the Minimax algo
 
 ## Contact
 If you have any question regarding the project, feel free to contact me.
-### [saintpopo](https://github.com/saintpopo) :
+ - [saintpopo](https://github.com/saintpopo) :
  - [email](lit2017031@iiitl.ac.in)
 
