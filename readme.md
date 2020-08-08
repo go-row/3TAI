@@ -8,9 +8,9 @@ Two players (player X, and player O) play on 3x3 grid. Player X is a human playe
 
 ## The game was built using the following :
 
- - HTML, JS, CSS.
- - Minimax Algorithm.
- - Sounds from soundbible (see credit section).
+ - HTML, JS, CSS
+ - Minimax Algorithm
+ - Sounds from soundbible (see credit section)
 
 ## Credits
 
@@ -27,6 +27,6 @@ Two players (player X, and player O) play on 3x3 grid. Player X is a human playe
 
 ## Contact
 If you have any question regarding the project, feel free to contact me.
- - [saintpopo](https://github.com/saintpopo) :
+ - [github](https://github.com/saintpopo)
  - [email](lit2017031@iiitl.ac.in)
-
+ - [linkedin](https://www.linkedin.com/in/saintpopo/)
